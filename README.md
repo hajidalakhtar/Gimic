@@ -40,7 +40,7 @@ go run main.go serve
 |-------|-----------|
 |```go run main.go serve```|running server instance|
 |```go run main.go migrate```|running auto migration|
-|```go run main.go microservice```|running auto microservice|
+|```go run main.go microservice```|running service|
 
 
 
